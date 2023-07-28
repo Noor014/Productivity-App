@@ -23,6 +23,7 @@ An app to note your daily tasks with category. Weekly analysis is shown. Pomodor
    <li> Firestore is used to store and fetch data </li>
    <li> Pomodoro timer with short and long break </li>
    <li> Minimal UI and satisfying animations </li>
+</ul>
 
 # Screenshots
 
